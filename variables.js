@@ -9,7 +9,7 @@ var y = canvas.height-30;
 var dx = 2;
 var dy = -2;
 
-var ballRadius = 15;
+var ballRadius = 16;
 
 var paddleHeight = 10;
 var paddleWidth = 75;
